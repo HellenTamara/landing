@@ -93,4 +93,8 @@ footer li {
   .card {
     margin: 1rem 0;
   }
+  
+    .banner-info a {
+    margin-top: 1rem;
+  }
 }
